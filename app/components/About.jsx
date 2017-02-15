@@ -11,8 +11,8 @@ var React = require('react');
 var About = (props) => {
     return (
       <div>
-          <h3>About</h3>
-          <p>Welcome to the About page!</p>
+          <h1 className='text-center'>About</h1>
+          <p>Shabby chic bushwick try-hard keffiyeh aesthetic, vegan schlitz vape messenger bag health goth gochujang. Chambray art party semiotics snackwave. Raclette vaporware shoreditch tote bag, heirloom mustache disrupt vinyl schlitz thundercats whatever sartorial beard chillwave succulents. Cray bespoke gluten-free organic locavore shoreditch. Enamel pin ethical tattooed fashion axe.</p>
       </div>
     );
 };
