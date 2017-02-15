@@ -13,7 +13,7 @@ require('style!css!foundation-sites/dist/foundation.min.css');
 $(document).foundation();
 
 // App CSS
-require('style!css!appCSS');
+require('style!css!sass!appCSS');
 
 
 ReactDOM.render(
